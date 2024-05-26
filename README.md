@@ -41,7 +41,7 @@ source venv/bin/activate
 2. **Jalankan Flask**
 
 ```sh
-python app.py
+python main.py
 ```
 
 ### Akses API di
